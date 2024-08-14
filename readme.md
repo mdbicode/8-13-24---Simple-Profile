@@ -4,3 +4,6 @@ Ini adalah project profile yang sangat sederhana yang dimana terdapat informasi 
 3. Keahlian
 4. Informasi Pribadi
 5. Contact
+
+Preview :
+![Result](https://github.com/mdbicode/Simple-Profile-Page/blob/main/Result.jpeg)
