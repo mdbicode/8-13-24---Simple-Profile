@@ -49,15 +49,17 @@ nav{
 
 .search{
     padding-left: 10px;
-    border: 1px solid;
+    border: 1px rgb(167, 167, 167) solid;
     border-radius: 5px;
     width: 330px;
+    color: rgb(167, 167, 167);
 }
 
 .search input{
     width: 300px;
     height: 35px;
     border: none;
+    place-items: ;
     
 }
 
@@ -180,4 +182,34 @@ nav{
 .active-shadow{
     margin-bottom: 0;
     border-bottom: 1px rgb(0, 140, 255) solid;
+}
+
+.desc{
+    margin: 40px 0px;
+}
+
+.desc .grid-container{
+    width: 70%;
+    row-gap: 20px;
+    
+}
+
+.line{
+    display: flex;
+    align-items: center;
+
+}
+.line hr{
+    width: 250px;
+    margin: 10px;
+    color: rgb(167, 167, 167);
+}
+
+.list{
+    margin: 20px 0px;
+}
+
+.list li{
+    margin: 10px 0px;
+    font-weight: bold;
 }
